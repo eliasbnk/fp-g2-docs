@@ -1,0 +1,58 @@
+<map id="ChooseSeat" name="ChooseSeat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,180,99,205"/>
+<area shape="rect" id="Node000002" href="$ask__to__buy__another__seat_8cpp.html#a4afa1b0364a03baba3aed1ebe32be02a" title=" " alt="" coords="147,54,300,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,178,94,134,118,110,145,89,154,84,156,89,148,93,121,114,98,138,64,181"/>
+<area shape="rect" id="Node000003" href="$group___input_validation.html#ga1475513d3b4512ca8900970abdac8298" title="Validates and processes yes/no input from the user." alt="" coords="366,8,510,33"/>
+<area shape="poly" id="edge10_Node000001_Node000003" title=" " alt="" coords="55,178,65,148,83,110,110,71,126,54,145,40,195,18,248,6,302,3,351,5,351,10,302,8,249,12,197,23,148,44,130,58,114,74,88,112,70,150,60,180"/>
+<area shape="rect" id="Node000006" href="$choose__seat_8cpp.html#a8c6614e902f641888e1fa56c97492da7" title=" " alt="" coords="153,329,294,355"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="70,204,198,317,195,321,67,208"/>
+<area shape="rect" id="Node000011" href="$choose__seat_8cpp.html#a7b7ba2440ccd0c9954bea061840047d4" title=" " alt="" coords="152,517,295,543"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="62,205,211,503,207,505,58,207"/>
+<area shape="rect" id="Node000017" href="$choose__seat_8cpp.html#af509dbbf0178bbd071c80c7a53e89f21" title=" " alt="" coords="169,566,278,592"/>
+<area shape="poly" id="edge20_Node000001_Node000017" title=" " alt="" coords="58,206,68,278,88,383,115,486,131,526,149,553,157,561,154,565,145,557,126,529,110,488,82,384,63,279,52,206"/>
+<area shape="rect" id="Node000018" href="$issue__ticket__number_8cpp.html#aa47caafe8a9d02cb54b3c6b886a36e7f" title=" " alt="" coords="156,205,291,231"/>
+<area shape="poly" id="edge21_Node000001_Node000018" title=" " alt="" coords="99,197,141,203,141,208,99,202"/>
+<area shape="rect" id="Node000022" href="$data__saver_8cpp.html#a64b95a2a7165193ac273671a363a84d8" title="Modifies a cell within the data matrix and writes the updated data to a file." alt="" coords="348,106,527,132"/>
+<area shape="poly" id="edge31_Node000001_Node000022" title=" " alt="" coords="99,181,351,133,352,138,100,186"/>
+<area shape="rect" id="Node000024" href="$save__customer__info_8cpp.html#a9aa8fdc2e0f58cf901c95ddf28ad4954" title=" " alt="" coords="158,104,289,129"/>
+<area shape="poly" id="edge27_Node000001_Node000024" title=" " alt="" coords="80,177,146,146,175,133,177,138,148,151,82,182"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="285,51,360,35,362,40,286,56"/>
+<area shape="rect" id="Node000004" href="$input__validator_8cpp.html#ac532257f8683edd9f0d935deb7c9845d" title=" " alt="" coords="593,8,728,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="510,18,578,18,578,23,510,23"/>
+<area shape="rect" id="Node000005" href="$group___input_validation.html#ga1cc7e16934c0f6dc724e7a12d10e73c5" title="Checks if a string contains only alphabetic characters." alt="" coords="794,8,916,33"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="728,18,779,18,779,23,728,23"/>
+<area shape="rect" id="Node000007" href="$screen__cleaner_8cpp.html#a6a3ca153f0817e8ba91a023b886bb662" title="Clears the console screen." alt="" coords="391,304,484,329"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="294,331,376,321,376,326,295,336"/>
+<area shape="rect" id="Node000008" href="$choose__seat_8cpp.html#a709da6e22097566e12aa051ad936b776" title=" " alt="" coords="372,353,504,379"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="295,347,357,354,356,360,294,352"/>
+<area shape="rect" id="Node000010" href="$group___input_validation.html#gae35d3a1637fb347a84a6737807444cc2" title="Checks if a string contains only numeric digits." alt="" coords="370,402,505,428"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="256,353,349,389,370,395,368,400,347,394,254,358"/>
+<area shape="rect" id="Node000009" href="$choose__seat_8cpp.html#ae6f3a9cbcd6cf218a2b3e425e097b8b6" title=" " alt="" coords="595,353,726,379"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="504,363,580,363,580,369,504,369"/>
+<area shape="rect" id="Node000012" href="$group___input_validation.html#ga8546595219f9b543a6efedf733421019" title="Checks if a string is a valid positive integer." alt="" coords="349,452,527,493"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="274,514,344,495,345,500,275,519"/>
+<area shape="rect" id="Node000013" href="$choose__seat_8cpp.html#af5f1415e2cf7a9f1c8bed8df5eae4e49" title=" " alt="" coords="382,568,494,593"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="281,541,367,561,366,567,280,546"/>
+<area shape="rect" id="Node000014" href="$choose__seat_8cpp.html#a08473f1d843bbef599bcb4ed4c309189" title=" " alt="" coords="631,542,690,568"/>
+<area shape="poly" id="edge16_Node000011_Node000014" title=" " alt="" coords="296,531,616,550,616,555,295,537"/>
+<area shape="rect" id="Node000015" href="$choose__seat_8cpp.html#a77cf0a27e3954b75d3054858da2c599d" title=" " alt="" coords="593,618,728,644"/>
+<area shape="poly" id="edge19_Node000011_Node000015" title=" " alt="" coords="280,541,302,552,317,566,326,580,334,593,349,604,406,624,466,635,525,639,578,638,578,643,525,644,465,640,404,629,347,608,330,596,321,583,313,569,298,556,278,546"/>
+<area shape="rect" id="Node000016" href="$choose__seat_8cpp.html#a098766e4df4b2850f99b3a139cfbab9d" title=" " alt="" coords="382,669,494,695"/>
+<area shape="poly" id="edge17_Node000011_Node000016" title=" " alt="" coords="285,541,302,552,320,576,327,601,333,625,350,648,369,661,366,665,346,652,328,627,322,602,315,579,298,556,282,546"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="494,572,616,558,616,563,494,577"/>
+<area shape="poly" id="edge15_Node000013_Node000015" title=" " alt="" coords="495,591,587,612,586,617,493,596"/>
+<area shape="poly" id="edge18_Node000016_Node000015" title=" " alt="" coords="493,667,586,645,587,651,495,672"/>
+<area shape="rect" id="Node000019" href="$issue__ticket__number_8cpp.html#af149f8dcba5d02940205f813f6396e8a" title=" " alt="" coords="364,156,511,181"/>
+<area shape="poly" id="edge22_Node000018_Node000019" title=" " alt="" coords="282,202,364,183,365,188,283,207"/>
+<area shape="rect" id="Node000020" href="$issue__ticket__number_8cpp.html#a9f9ebb0bf0faed613b8a71fcd06d7daf" title=" " alt="" coords="360,205,516,231"/>
+<area shape="poly" id="edge23_Node000018_Node000020" title=" " alt="" coords="292,215,345,215,345,221,292,221"/>
+<area shape="poly" id="edge25_Node000018_Node000022" title=" " alt="" coords="262,202,298,184,322,162,332,151,347,141,358,135,360,140,349,146,335,156,326,166,302,188,264,207"/>
+<area shape="rect" id="Node000023" href="$ticket__finder_8cpp.html#ae40c8044cfc78df8605593da29e23cbd" title="Checks if a ticket number exists in the event&#39;s ticket data." alt="" coords="354,254,522,280"/>
+<area shape="poly" id="edge26_Node000018_Node000023" title=" " alt="" coords="283,229,365,248,364,253,282,234"/>
+<area shape="rect" id="Node000021" href="$issue__ticket__number_8cpp.html#ac1c66bd86780626acf6dce80e08eb810" title=" " alt="" coords="575,205,746,231"/>
+<area shape="poly" id="edge24_Node000020_Node000021" title=" " alt="" coords="516,215,560,215,560,221,516,221"/>
+<area shape="poly" id="edge28_Node000024_Node000003" title=" " alt="" coords="277,101,299,90,313,79,322,67,331,54,347,42,357,37,359,42,349,47,335,58,326,70,317,82,301,95,279,106"/>
+<area shape="poly" id="edge30_Node000024_Node000022" title=" " alt="" coords="289,115,333,115,333,121,289,120"/>
+<area shape="rect" id="Node000025" href="$group___input_validation.html#ga4d4697969bd2f3673b96b0d7e4961004" title="Verifies if a string follows a valid name format." alt="" coords="376,57,500,83"/>
+<area shape="poly" id="edge29_Node000024_Node000025" title=" " alt="" coords="285,100,360,84,362,89,286,106"/>
+</map>

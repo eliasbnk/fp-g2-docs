@@ -1,0 +1,7 @@
+<map id="GetUserConfirmation" name="GetUserConfirmation">
+<area shape="rect" id="Node000001" title="Validates and processes yes/no input from the user." alt="" coords="5,5,150,31"/>
+<area shape="rect" id="Node000002" href="$input__validator_8cpp.html#ac532257f8683edd9f0d935deb7c9845d" title=" " alt="" coords="198,5,333,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,16,182,16,182,21,150,21"/>
+<area shape="rect" id="Node000003" href="$group___input_validation.html#ga1cc7e16934c0f6dc724e7a12d10e73c5" title="Checks if a string contains only alphabetic characters." alt="" coords="381,5,503,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="334,16,366,16,366,21,334,21"/>
+</map>

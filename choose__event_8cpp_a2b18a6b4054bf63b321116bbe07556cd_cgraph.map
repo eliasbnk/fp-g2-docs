@@ -1,0 +1,5 @@
+<map id="HandleEventSelection" name="HandleEventSelection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,156,31"/>
+<area shape="rect" id="Node000002" href="$group___input_validation.html#gae35d3a1637fb347a84a6737807444cc2" title="Checks if a string contains only numeric digits." alt="" coords="204,5,339,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,16,189,16,189,21,156,21"/>
+</map>

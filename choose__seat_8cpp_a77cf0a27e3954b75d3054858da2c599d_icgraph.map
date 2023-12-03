@@ -1,0 +1,19 @@
+<map id="IsWithinValidRange" name="IsWithinValidRange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="907,22,1043,48"/>
+<area shape="rect" id="Node000002" href="$choose__seat_8cpp.html#a7b7ba2440ccd0c9954bea061840047d4" title=" " alt="" coords="556,22,699,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="910,21,859,12,803,8,747,12,681,24,680,19,747,7,803,3,860,7,910,15"/>
+<area shape="rect" id="Node000007" href="$choose__seat_8cpp.html#af5f1415e2cf7a9f1c8bed8df5eae4e49" title=" " alt="" coords="747,22,859,48"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="892,37,860,37,860,32,892,32"/>
+<area shape="rect" id="Node000008" href="$choose__seat_8cpp.html#a098766e4df4b2850f99b3a139cfbab9d" title=" " alt="" coords="747,71,859,97"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="914,55,851,73,850,68,913,50"/>
+<area shape="rect" id="Node000003" href="$choose__seat_8cpp.html#ae8769ec4d97a7123d2e2bc6b944c5366" title=" " alt="" coords="414,22,508,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="541,37,508,37,508,32,541,32"/>
+<area shape="rect" id="Node000004" href="$booking__menu_8cpp.html#a7c627361b4943044508dfac13845a029" title="Manages event reservations." alt="" coords="232,22,366,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="399,37,367,37,367,32,399,32"/>
+<area shape="rect" id="Node000005" href="$main__menu_8cpp.html#ab98dbf196398d8aeaa4ac97f87ae54a1" title=" " alt="" coords="103,22,184,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="217,37,185,37,185,32,217,32"/>
+<area shape="rect" id="Node000006" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main menu for the Ticket Booker app." alt="" coords="5,22,55,48"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="88,37,55,37,55,32,88,32"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="732,37,699,37,699,32,732,32"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="740,69,675,51,677,46,742,64"/>
+</map>

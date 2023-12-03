@@ -1,0 +1,39 @@
+<map id="ValidateYesNoInput" name="ValidateYesNoInput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="989,181,1125,207"/>
+<area shape="rect" id="Node000002" href="$group___input_validation.html#ga1475513d3b4512ca8900970abdac8298" title="Validates and processes yes/no input from the user." alt="" coords="797,181,941,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="974,197,942,197,942,192,974,192"/>
+<area shape="rect" id="Node000003" href="$ask__to__buy__another__seat_8cpp.html#a4afa1b0364a03baba3aed1ebe32be02a" title=" " alt="" coords="593,5,747,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="850,170,808,112,779,80,747,52,713,34,716,29,751,48,783,76,812,108,855,167"/>
+<area shape="rect" id="Node000004" href="$choose__seat_8cpp.html#ae8769ec4d97a7123d2e2bc6b944c5366" title=" " alt="" coords="433,81,526,107"/>
+<area shape="poly" id="edge7_Node000002_Node000004" title=" " alt="" coords="846,172,804,131,777,111,748,97,690,83,631,79,574,81,527,88,526,82,574,76,631,73,691,77,750,92,780,107,808,126,850,168"/>
+<area shape="rect" id="Node000008" href="$event__creator_8cpp.html#a322f809349ee5c397b88169b025dfc5e" title="Creates an event data folder with associated data files." alt="" coords="591,156,749,182"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="782,186,749,182,750,176,783,181"/>
+<area shape="rect" id="Node000009" href="$creator__menu_8cpp.html#a16e88c739833bcb881b6768d4808b7c3" title="Guides the user through creating a new event." alt="" coords="416,159,543,184"/>
+<area shape="poly" id="edge11_Node000002_Node000009" title=" " alt="" coords="782,201,690,202,590,197,534,188,535,182,591,192,690,197,782,196"/>
+<area shape="rect" id="Node000010" href="$delete__event_2delete__event_8cpp.html#a759b79c4786bb725d1c9ad68752736d0" title="Delete an existing event folder." alt="" coords="417,233,542,259"/>
+<area shape="poly" id="edge12_Node000002_Node000010" title=" " alt="" coords="783,208,543,241,542,235,782,203"/>
+<area shape="rect" id="Node000011" href="$input__validator_8cpp.html#a305d7dba693d630e18607de471c8c570" title=" " alt="" coords="432,308,527,334"/>
+<area shape="poly" id="edge14_Node000002_Node000011" title=" " alt="" coords="817,215,750,238,525,310,523,305,748,233,815,210"/>
+<area shape="rect" id="Node000014" href="$editor__menu_8cpp.html#a3783c60f161abe3d1ee00f4d651edcf6" title=" " alt="" coords="232,359,368,384"/>
+<area shape="poly" id="edge19_Node000002_Node000014" title=" " alt="" coords="847,219,804,256,750,291,702,313,651,330,547,355,449,368,369,374,368,368,449,363,546,350,649,325,700,308,748,286,801,252,843,215"/>
+<area shape="rect" id="Node000015" href="$save__customer__info_8cpp.html#a9aa8fdc2e0f58cf901c95ddf28ad4954" title=" " alt="" coords="605,107,735,132"/>
+<area shape="poly" id="edge21_Node000002_Node000015" title=" " alt="" coords="825,177,748,146,717,135,718,130,750,141,827,172"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="623,39,515,83,513,78,621,34"/>
+<area shape="rect" id="Node000005" href="$booking__menu_8cpp.html#a7c627361b4943044508dfac13845a029" title="Manages event reservations." alt="" coords="233,95,367,120"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="418,101,368,105,368,100,418,96"/>
+<area shape="rect" id="Node000006" href="$main__menu_8cpp.html#ab98dbf196398d8aeaa4ac97f87ae54a1" title=" " alt="" coords="103,235,184,260"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="266,131,234,155,190,198,157,236,153,233,186,194,230,151,263,127"/>
+<area shape="rect" id="Node000007" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main menu for the Ticket Booker app." alt="" coords="5,235,55,260"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="88,250,55,250,55,245,88,245"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="576,173,543,173,543,168,576,167"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="406,191,233,230,185,241,184,236,231,225,404,186"/>
+<area shape="poly" id="edge13_Node000010_Node000006" title=" " alt="" coords="402,249,184,250,184,245,402,244"/>
+<area shape="rect" id="Node000012" href="$check__in__menu_8cpp.html#a28e58e4771fd76c9f67b715f2f553b1f" title=" " alt="" coords="249,260,351,286"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="417,307,350,289,352,284,418,302"/>
+<area shape="rect" id="Node000013" href="$refund__menu_8cpp.html#a219a89b81cc06403e093f9426598d3b1" title=" " alt="" coords="235,309,366,335"/>
+<area shape="poly" id="edge17_Node000011_Node000013" title=" " alt="" coords="417,324,366,324,366,319,417,319"/>
+<area shape="poly" id="edge16_Node000012_Node000006" title=" " alt="" coords="233,265,184,257,185,251,234,260"/>
+<area shape="poly" id="edge18_Node000013_Node000006" title=" " alt="" coords="243,306,231,301,164,263,167,259,233,296,245,301"/>
+<area shape="poly" id="edge20_Node000014_Node000006" title=" " alt="" coords="238,354,230,350,205,329,182,305,151,262,155,259,187,301,209,325,234,345,240,350"/>
+<area shape="poly" id="edge22_Node000015_Node000004" title=" " alt="" coords="590,112,526,103,527,98,591,106"/>
+</map>

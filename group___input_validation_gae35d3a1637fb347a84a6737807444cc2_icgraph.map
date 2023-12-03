@@ -1,0 +1,34 @@
+<map id="IsInputValidNumber" name="IsInputValidNumber">
+<area shape="rect" id="Node000001" title="Checks if a string contains only numeric digits." alt="" coords="810,81,945,107"/>
+<area shape="rect" id="Node000002" href="$choose__seat_8cpp.html#a8c6614e902f641888e1fa56c97492da7" title=" " alt="" coords="614,107,756,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="796,108,756,113,755,108,795,102"/>
+<area shape="rect" id="Node000007" href="$data__generator_8cpp.html#a69571479b9a2e0a0df5dee5ecf12c40f" title="Get user input with validation for a positive integer within a specified limit." alt="" coords="608,5,762,31"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="828,78,718,34,720,29,830,73"/>
+<area shape="rect" id="Node000010" href="$main__menu_8cpp.html#af2945ffc8b96b7ffbf4a5d21e64c8a02" title=" " alt="" coords="416,56,560,82"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="795,92,560,76,560,71,795,86"/>
+<area shape="rect" id="Node000011" href="$choose__event_8cpp.html#a2b18a6b4054bf63b321116bbe07556cd" title=" " alt="" coords="610,156,760,182"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="837,116,763,147,732,158,730,153,761,142,835,111"/>
+<area shape="rect" id="Node000003" href="$choose__seat_8cpp.html#ae8769ec4d97a7123d2e2bc6b944c5366" title=" " alt="" coords="441,107,535,132"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="600,122,535,122,535,117,600,117"/>
+<area shape="rect" id="Node000004" href="$booking__menu_8cpp.html#a7c627361b4943044508dfac13845a029" title="Manages event reservations." alt="" coords="233,107,367,132"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="426,122,368,122,368,117,426,117"/>
+<area shape="rect" id="Node000005" href="$main__menu_8cpp.html#ab98dbf196398d8aeaa4ac97f87ae54a1" title=" " alt="" coords="103,107,184,132"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="218,122,185,122,185,117,218,117"/>
+<area shape="rect" id="Node000006" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main menu for the Ticket Booker app." alt="" coords="5,107,55,132"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="88,122,55,122,55,117,88,117"/>
+<area shape="rect" id="Node000008" href="$data__generator_8cpp.html#a36513863ff331feee7bc667628be0a14" title="Guides the user to set venue size parameters." alt="" coords="435,5,541,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="593,21,541,21,541,16,593,16"/>
+<area shape="rect" id="Node000009" href="$creator__menu_8cpp.html#a16e88c739833bcb881b6768d4808b7c3" title="Guides the user through creating a new event." alt="" coords="237,5,363,31"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="421,21,364,21,364,16,421,16"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="255,40,233,52,193,81,161,108,158,104,190,77,231,48,253,36"/>
+<area shape="poly" id="edge11_Node000010_Node000005" title=" " alt="" coords="402,76,319,84,233,97,185,109,184,104,231,92,319,78,401,71"/>
+<area shape="rect" id="Node000012" href="$choose__event_8cpp.html#ae42e5bffb3880a3b9c9ec58eead4e6ae" title="Handles event discovery and selection." alt="" coords="438,156,538,182"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="595,172,538,172,538,166,595,166"/>
+<area shape="poly" id="edge16_Node000012_Node000004" title=" " alt="" coords="423,155,351,136,353,130,424,149"/>
+<area shape="rect" id="Node000013" href="$delete__event_2delete__event_8cpp.html#a759b79c4786bb725d1c9ad68752736d0" title="Delete an existing event folder." alt="" coords="238,205,363,231"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="424,188,353,207,351,202,423,183"/>
+<area shape="rect" id="Node000014" href="$editor__menu_8cpp.html#a3783c60f161abe3d1ee00f4d651edcf6" title=" " alt="" coords="232,156,368,182"/>
+<area shape="poly" id="edge17_Node000012_Node000014" title=" " alt="" coords="423,172,369,172,369,166,423,166"/>
+<area shape="poly" id="edge15_Node000013_Node000005" title=" " alt="" coords="240,201,231,196,188,165,155,135,159,131,191,161,233,192,242,197"/>
+<area shape="poly" id="edge18_Node000014_Node000005" title=" " alt="" coords="242,154,184,135,185,130,244,148"/>
+</map>

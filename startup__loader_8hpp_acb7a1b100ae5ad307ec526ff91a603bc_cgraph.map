@@ -1,0 +1,11 @@
+<map id="StartUpLoader" name="StartUpLoader">
+<area shape="rect" id="Node000001" title="Displays a loading message with a typing animation." alt="" coords="5,55,111,80"/>
+<area shape="rect" id="Node000002" href="$startup__loader_8cpp.html#ac6596f8418de7a505f19ab8f4fc5c067" title=" " alt="" coords="159,55,248,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,65,144,65,144,70,111,70"/>
+<area shape="rect" id="Node000003" href="$startup__loader_8cpp.html#ae2fbd0a129ad69270cfec8bf7ccc96d0" title=" " alt="" coords="296,5,467,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="248,53,318,33,319,38,249,58"/>
+<area shape="rect" id="Node000004" href="$startup__loader_8cpp.html#acdd94147e798e4e25a9a2774a7373dc3" title=" " alt="" coords="327,55,436,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="249,65,312,65,312,70,249,70"/>
+<area shape="rect" id="Node000005" href="$startup__loader_8cpp.html#ab4c011c1495ad1f9ed96b7b6b4062091" title=" " alt="" coords="328,104,435,130"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="249,77,319,97,318,102,248,82"/>
+</map>

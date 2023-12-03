@@ -1,0 +1,23 @@
+<map id="CheckInMenu" name="CheckInMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,153,108,179"/>
+<area shape="rect" id="Node000002" href="$screen__cleaner_8cpp.html#a6a3ca153f0817e8ba91a023b886bb662" title="Clears the console screen." alt="" coords="204,5,297,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,152,96,97,123,66,154,40,188,25,190,30,157,44,126,70,101,100,67,154"/>
+<area shape="rect" id="Node000003" href="$get__event__name_8cpp.html#abb560effed69a9d14727833ed93186ba" title=" " alt="" coords="184,55,317,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="69,151,106,120,154,89,169,83,171,88,157,94,109,124,73,155"/>
+<area shape="rect" id="Node000004" href="$ticket__finder_8cpp.html#a77e23857e56e384737766cedccc47b3b" title="Prompts the user to input a ticket number." alt="" coords="188,104,313,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="107,151,155,138,182,131,183,136,156,143,109,156"/>
+<area shape="rect" id="Node000005" href="$data__loader_8cpp.html#a3a63432cc237f6aa0b957702b5951156" title="Loads and processes data from a file into a matrix." alt="" coords="186,153,315,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="108,164,171,164,171,169,108,169"/>
+<area shape="rect" id="Node000006" href="$input__validator_8cpp.html#a305d7dba693d630e18607de471c8c570" title=" " alt="" coords="203,203,298,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="109,177,156,189,189,197,188,203,155,194,107,182"/>
+<area shape="rect" id="Node000010" href="$data__saver_8cpp.html#a64b95a2a7165193ac273671a363a84d8" title="Modifies a cell within the data matrix and writes the updated data to a file." alt="" coords="161,252,340,278"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="73,177,109,208,157,238,171,244,168,249,154,243,106,212,69,181"/>
+<area shape="rect" id="Node000011" href="$ticket__finder_8cpp.html#a6426f2737e056348835205a2020d1b08" title="Checks if a ticket number exists in the event&#39;s ticket data and returns its seat location." alt="" coords="156,302,345,343"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="67,178,101,231,127,262,157,288,163,292,160,297,154,292,123,265,97,234,63,181"/>
+<area shape="rect" id="Node000007" href="$group___input_validation.html#ga1475513d3b4512ca8900970abdac8298" title="Validates and processes yes/no input from the user." alt="" coords="393,203,537,228"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="298,213,378,213,378,218,298,218"/>
+<area shape="rect" id="Node000008" href="$input__validator_8cpp.html#ac532257f8683edd9f0d935deb7c9845d" title=" " alt="" coords="585,203,721,228"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="538,213,570,213,570,218,538,218"/>
+<area shape="rect" id="Node000009" href="$group___input_validation.html#ga1cc7e16934c0f6dc724e7a12d10e73c5" title="Checks if a string contains only alphabetic characters." alt="" coords="769,203,891,228"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="721,213,754,213,754,218,721,218"/>
+</map>

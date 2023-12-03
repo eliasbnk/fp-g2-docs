@@ -1,0 +1,17 @@
+<map id="HandleEventSelection" name="HandleEventSelection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="565,55,715,80"/>
+<area shape="rect" id="Node000002" href="$choose__event_8cpp.html#ae42e5bffb3880a3b9c9ec58eead4e6ae" title="Handles event discovery and selection." alt="" coords="416,55,517,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="550,70,517,70,517,65,550,65"/>
+<area shape="rect" id="Node000003" href="$delete__event_2delete__event_8cpp.html#a759b79c4786bb725d1c9ad68752736d0" title="Delete an existing event folder." alt="" coords="238,5,363,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="406,52,345,34,347,29,407,47"/>
+<area shape="rect" id="Node000006" href="$booking__menu_8cpp.html#a7c627361b4943044508dfac13845a029" title="Manages event reservations." alt="" coords="233,55,367,80"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="402,70,368,70,368,65,402,65"/>
+<area shape="rect" id="Node000007" href="$editor__menu_8cpp.html#a3783c60f161abe3d1ee00f4d651edcf6" title=" " alt="" coords="232,104,368,130"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="407,88,347,106,345,101,406,83"/>
+<area shape="rect" id="Node000004" href="$main__menu_8cpp.html#ab98dbf196398d8aeaa4ac97f87ae54a1" title=" " alt="" coords="103,55,184,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="244,39,185,57,184,52,242,33"/>
+<area shape="rect" id="Node000005" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main menu for the Ticket Booker app." alt="" coords="5,55,55,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="88,70,55,70,55,65,88,65"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="218,70,185,70,185,65,218,65"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="242,102,184,83,185,78,244,96"/>
+</map>

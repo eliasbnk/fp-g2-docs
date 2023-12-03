@@ -1,0 +1,12 @@
+<map id="PrintErrorMessage" name="PrintErrorMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="564,31,693,56"/>
+<area shape="rect" id="Node000002" href="$editor__menu_8cpp.html#a1c30cfbab2863a48f552be22ddf371ab" title=" " alt="" coords="416,5,516,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="549,34,515,29,516,23,550,29"/>
+<area shape="rect" id="Node000003" href="$editor__menu_8cpp.html#a3783c60f161abe3d1ee00f4d651edcf6" title=" " alt="" coords="232,31,368,56"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="548,46,369,46,369,41,548,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="402,31,369,36,368,30,401,25"/>
+<area shape="rect" id="Node000004" href="$main__menu_8cpp.html#ab98dbf196398d8aeaa4ac97f87ae54a1" title=" " alt="" coords="103,31,184,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="217,46,185,46,185,41,217,41"/>
+<area shape="rect" id="Node000005" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main menu for the Ticket Booker app." alt="" coords="5,31,55,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="88,46,55,46,55,41,88,41"/>
+</map>

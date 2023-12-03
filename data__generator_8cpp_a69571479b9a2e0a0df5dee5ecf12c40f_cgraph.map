@@ -1,0 +1,5 @@
+<map id="GetInputWithValidation" name="GetInputWithValidation">
+<area shape="rect" id="Node000001" title="Get user input with validation for a positive integer within a specified limit." alt="" coords="5,5,160,31"/>
+<area shape="rect" id="Node000002" href="$group___input_validation.html#gae35d3a1637fb347a84a6737807444cc2" title="Checks if a string contains only numeric digits." alt="" coords="208,5,343,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,16,193,16,193,21,160,21"/>
+</map>

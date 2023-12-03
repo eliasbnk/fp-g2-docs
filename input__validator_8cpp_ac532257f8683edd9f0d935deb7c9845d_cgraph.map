@@ -1,0 +1,5 @@
+<map id="ValidateYesNoInput" name="ValidateYesNoInput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,141,31"/>
+<area shape="rect" id="Node000002" href="$group___input_validation.html#ga1cc7e16934c0f6dc724e7a12d10e73c5" title="Checks if a string contains only alphabetic characters." alt="" coords="189,5,311,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,16,174,16,174,21,141,21"/>
+</map>

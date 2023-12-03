@@ -1,0 +1,13 @@
+<map id="IsSeatAvailable" name="IsSeatAvailable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="747,5,859,31"/>
+<area shape="rect" id="Node000002" href="$choose__seat_8cpp.html#a7b7ba2440ccd0c9954bea061840047d4" title=" " alt="" coords="556,5,699,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="732,21,699,21,699,16,732,16"/>
+<area shape="rect" id="Node000003" href="$choose__seat_8cpp.html#ae8769ec4d97a7123d2e2bc6b944c5366" title=" " alt="" coords="414,5,508,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="541,21,508,21,508,16,541,16"/>
+<area shape="rect" id="Node000004" href="$booking__menu_8cpp.html#a7c627361b4943044508dfac13845a029" title="Manages event reservations." alt="" coords="232,5,366,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="399,21,367,21,367,16,399,16"/>
+<area shape="rect" id="Node000005" href="$main__menu_8cpp.html#ab98dbf196398d8aeaa4ac97f87ae54a1" title=" " alt="" coords="103,5,184,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="217,21,185,21,185,16,217,16"/>
+<area shape="rect" id="Node000006" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main menu for the Ticket Booker app." alt="" coords="5,5,55,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="88,21,55,21,55,16,88,16"/>
+</map>

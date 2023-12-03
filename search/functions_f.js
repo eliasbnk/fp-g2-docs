@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['wasticketnumberissued_0',['wasticketnumberissued',['../ticket__finder_8cpp.html#ae40c8044cfc78df8605593da29e23cbd',1,'WasTicketNumberIssued(const tStringMatrix &amp;ticket_data, const tString &amp;ticket_number):&#160;ticket_finder.cpp'],['../ticket__finder_8hpp.html#ae40c8044cfc78df8605593da29e23cbd',1,'WasTicketNumberIssued(const tStringMatrix &amp;ticket_data, const tString &amp;ticket_number):&#160;ticket_finder.cpp']]],
+  ['wasticketnumberissuedgetlocation_1',['wasticketnumberissuedgetlocation',['../ticket__finder_8cpp.html#a6426f2737e056348835205a2020d1b08',1,'WasTicketNumberIssuedGetLocation(const tStringMatrix &amp;ticket_data, const tString &amp;ticket_number, int *row_ptr, int *col_ptr):&#160;ticket_finder.cpp'],['../ticket__finder_8hpp.html#ab1adcc7f962ee7780537a9723983b459',1,'WasTicketNumberIssuedGetLocation(const tStringMatrix &amp;ticket_data, const tString &amp;ticket_number, int *row_ptr=nullptr, int *col_ptr=nullptr):&#160;ticket_finder.cpp']]]
+];

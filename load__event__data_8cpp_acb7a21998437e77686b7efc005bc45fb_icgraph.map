@@ -1,0 +1,11 @@
+<map id="CalculateColumnWidths" name="CalculateColumnWidths">
+<area shape="rect" id="Node000001" title=" " alt="" coords="574,5,736,31"/>
+<area shape="rect" id="Node000002" href="$load__event__data_8cpp.html#a290763449c708c464ec7f8601673db51" title=" " alt="" coords="414,5,526,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="559,21,526,21,526,16,559,16"/>
+<area shape="rect" id="Node000003" href="$booking__menu_8cpp.html#a7c627361b4943044508dfac13845a029" title="Manages event reservations." alt="" coords="232,5,366,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="400,21,367,21,367,16,400,16"/>
+<area shape="rect" id="Node000004" href="$main__menu_8cpp.html#ab98dbf196398d8aeaa4ac97f87ae54a1" title=" " alt="" coords="103,5,184,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="217,21,185,21,185,16,217,16"/>
+<area shape="rect" id="Node000005" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main menu for the Ticket Booker app." alt="" coords="5,5,55,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="88,21,55,21,55,16,88,16"/>
+</map>

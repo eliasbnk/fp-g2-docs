@@ -1,0 +1,17 @@
+<map id="GenerateBookerNameAndTicketNumberDataWalkwayRow" name="GenerateBookerNameAndTicketNumberDataWalkwayRow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1199,5,1408,46"/>
+<area shape="rect" id="Node000002" href="$generate__booker__data_8cpp.html#a44fba1d1b56be992237030a112ffef60" title=" " alt="" coords="941,5,1151,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1184,28,1151,28,1151,23,1184,23"/>
+<area shape="rect" id="Node000003" href="$data__generator_8cpp.html#a5da4d79ddbb6d7b835cda1ebbb119432" title="Generates event&#45;related data files with proper data formatting." alt="" coords="770,13,893,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="926,28,894,28,894,23,926,23"/>
+<area shape="rect" id="Node000004" href="$event__creator_8cpp.html#adf9cc738769e3f27f8ab4783d4ba7cf2" title=" " alt="" coords="613,13,722,39"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="755,28,722,28,722,23,755,23"/>
+<area shape="rect" id="Node000005" href="$event__creator_8cpp.html#a322f809349ee5c397b88169b025dfc5e" title="Creates an event data folder with associated data files." alt="" coords="406,13,565,39"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="598,28,565,28,565,23,598,23"/>
+<area shape="rect" id="Node000006" href="$creator__menu_8cpp.html#a16e88c739833bcb881b6768d4808b7c3" title="Guides the user through creating a new event." alt="" coords="232,13,358,39"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="392,28,358,28,358,23,392,23"/>
+<area shape="rect" id="Node000007" href="$main__menu_8cpp.html#ab98dbf196398d8aeaa4ac97f87ae54a1" title=" " alt="" coords="103,13,184,39"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="217,28,184,28,184,23,217,23"/>
+<area shape="rect" id="Node000008" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main menu for the Ticket Booker app." alt="" coords="5,13,55,39"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="88,28,55,28,55,23,88,23"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="AskToBuyAnotherSeat" name="AskToBuyAnotherSeat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,159,31"/>
+<area shape="rect" id="Node000002" href="$group___input_validation.html#ga1475513d3b4512ca8900970abdac8298" title="Validates and processes yes/no input from the user." alt="" coords="207,5,351,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,16,192,16,192,21,159,21"/>
+<area shape="rect" id="Node000003" href="$input__validator_8cpp.html#ac532257f8683edd9f0d935deb7c9845d" title=" " alt="" coords="399,5,534,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="351,16,384,16,384,21,351,21"/>
+<area shape="rect" id="Node000004" href="$group___input_validation.html#ga1cc7e16934c0f6dc724e7a12d10e73c5" title="Checks if a string contains only alphabetic characters." alt="" coords="582,5,705,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="535,16,567,16,567,21,535,21"/>
+</map>
